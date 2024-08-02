@@ -1,6 +1,6 @@
 # ITK Bot
 
-**Codiname: ITK Bot "Mike" v1"**
+**Codiname: ITK Bot "Mike" Beta Testing1"**
 **Version 1 (Jun 2024)**  
 **Developed by Mike Niner Bravog aka "Marcello Dev @ Upwork"**  
 **Client: Air.io**
@@ -11,11 +11,11 @@ ITK Bot is a powerful tool designed to automate the process of filling out insur
 
 ## Features
 
-- Automated Form Filling: The bot can log in and automatically fill out insurance quotation forms quickly and accurately.
-- High Volume Processing: Capable of handling hundreds of quotes per day without breaking.
-- High Speed: Each Final Expense Quote takes from 20 to 30 seconds on average to get done.
-- Dynamic Question Handling: Smart to answer additional questions that appear based on the information entered.
-- Integration with Existing Systems: Designed to work seamlessly with current systems at insurancetoolkit.com.
+- **Automated Form Filling:** The bot can log in and automatically fill out insurance quotation forms quickly and accurately.
+- **High Volume Processing:** Capable of handling hundreds even thousands of quotes per day without breaking.
+- **High Speed:** Each Final Expense Quote takes from 20 to 30 seconds on average to get done.
+- **Dynamic Question Handling:** Smart to answer additional questions that appear based on the information entered.
+- **Integration with Existing Systems:** Designed to work seamlessly with current systems at insurancetoolkit.com.
 
 ### JSON Element Constructing
 
