@@ -196,6 +196,10 @@ The preferred payment method, which can be one of the following:
 
 Each health condition and medication has its own specific set of fields and requirements. Detailed documentation about the JSON schema for each medication and health condition will be provided separately to assist in the construction and submission of these elements. Please refer to the respective documentation for more information on how to structure and fill in the JSON elements for specific health conditions and medications.
 
+### Additional Documentation
+
+All medications and health conditions will have their schemas explained in additional documentation to assist in the proper construction and submission of the JSON elements. Please refer to these documents for detailed schema information.
+
 ### Health Conditions JSON Schemas:
 
 [Please consult the respective Section](https://github.com/mikeninerbravog/itk_bot_operational/tree/master/documentation/health_schema/md)
@@ -209,10 +213,6 @@ Each health condition and medication has its own specific set of fields and requ
 To post the JSON element, use the following URL:  
 [https://itkbot.bravog.com/upload-config](https://itkbot.bravog.com/upload-config)
 
-### Additional Documentation
-
-All medications and health conditions will have their schemas explained in additional documentation to assist in the proper construction and submission of the JSON elements. Please refer to these documents for detailed schema information.
-
 ### Postback Information
 
 The client (Air.io) must inform the postback URL. For this initial phase, a temporary URL to view the postback is:  
@@ -225,3 +225,11 @@ The bot system is modular and can be extended to handle additional health condit
 ### Performance Note
 
 Each quotation request takes an average of 20 to 30 seconds to be processed and posted back. The bot operates at a moderate speed due to limitations of the target host (insurancetoolkit.com). Some delays within this speed average are mandatory to keep the flows running flawlessly.
+
+### Examples to test the Bot's operation
+
+[JSON Element for Get a Final Expense Quote - Example #1:](https://github.com/mikeninerbravog/itk_bot_operational/blob/master/documentation/session_example1.md)
+
+[JSON Element for Get a Final Expense Quote - Example #2:](https://github.com/mikeninerbravog/itk_bot_operational/blob/master/documentation/session_example2.md)
+
+[JSON Element for Get a Final Expense Quote - Example #3:](https://github.com/mikeninerbravog/itk_bot_operational/blob/master/documentation/session_example3.md)
