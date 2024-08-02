@@ -5,6 +5,19 @@
 - **Developed by Mike Niner Bravog aka Marcello Dev @ Upwork**  
 - **Client: Air.io**
 
+### Submission URL
+
+To post the JSON element, use the following URL:  
+[https://itkbot.bravog.com/upload-config](https://itkbot.bravog.com/upload-config)
+
+### Postback Information
+
+The client (Air.io) must inform the postback URL. For this initial phase, a temporary URL to view the postback is:  
+[https://020524.bravog.com/itk_bot_postback.txt](https://020524.bravog.com/itk_bot_postback.txt)
+
+
+
+
 ## Overview
 
 ITK Bot is a powerful tool designed to automate the process of filling out insurance quotation forms on insurancetoolkit.com, specifically within the "FEX" section. This bot aims to help insurance agents perform their jobs more efficiently by handling a high volume of quotes daily and responding to dynamic form questions.
