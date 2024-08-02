@@ -17,8 +17,8 @@ ITK Bot is a powerful tool designed to automate the process of filling out insur
 - **Dynamic Question Handling:** Smart to answer additional questions that appear based on the information entered.
 - **Integration with Existing Systems:** Designed to work seamlessly with current systems at insurancetoolkit.com.
 
-### JSON Element Constructing
-
+### Instructions of JSON Element Constructing
+Including URL Endpoint and post-back instructions
 - [General explanation about the JSON Element that trigger the ITK Bot](https://github.com/mikeninerbravog/itk_bot_operational/blob/master/documentation/ITK_Bot_release.md)
 
 
