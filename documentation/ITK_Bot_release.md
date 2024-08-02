@@ -198,7 +198,7 @@ Each health condition and medication has its own specific set of fields and requ
 
 ### Health Conditions JSON Schemas:
 
-[https://github.com/mikeninerbravog/itk_bot_operational/tree/master/documentation/health_schema/md] Please consult the respective Section
+[ Please consult the respective Section](https://github.com/mikeninerbravog/itk_bot_operational/tree/master/documentation/health_schema/md)
 
 ### Submission URL
 
