@@ -213,4 +213,7 @@ This bot system was programmed to get the job done flawlessly, but as it depends
 10. **Dependence on HTML and CSS Structure**:
     - The bot system relies on the HTML and CSS structure of the Insurance Toolkit host. If any changes occur in these structures, such as during a UI update on the host, the system may break. In such cases, all references to XPATHs and CSS Selectors must be rewritten to restore functionality.
 
+11. **Headless Mode Operation**:
+    - The bot must run in headless mode as the preferred option. Running in graphical mode demands more processing resources and is only recommended for maintenance, presentation, and development purposes. In live mode, headless operation is by far the best option for optimal performance and efficiency.
+
 ---
