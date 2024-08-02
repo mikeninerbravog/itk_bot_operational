@@ -1,23 +1,31 @@
 ### Diabetes: Constructing JSON Elements for ITK Bot
 
-The JSON structure for health conditions includes the following common fields for each condition:
+The JSON structure for Diabetes includes the following fields:
 
 - `Date of last treatment`: The last date the condition was treated, broken down into `month`, `day`, and `year`.
-- `Date of diagnosis?`: The date the condition was diagnosed, broken down into `month`, `day`, and `year`.
-
-Some conditions may include additional specific fields relevant to the condition.
+- `Date of diagnosis`: The date the condition was diagnosed, broken down into `month`, `day`, and `year`.
+- `insulin_use`: Indicates whether the prospect uses insulin (`"Yes"` or `"No"`).
+- `age_insulin_started`: The age at which the prospect started using insulin.
+- `daily_insulin_units`: The number of insulin units taken daily.
+- `uncontrolled_diabetes_past_10_years`: Indicates if diabetes has been uncontrolled in the past 10 years (`"Yes"` or `"No"`).
+- `uncontrolled_diabetes_past_3_years`: Indicates if diabetes has been uncontrolled in the past 3 years (`"Yes"` or `"No"`).
+- `uncontrolled_diabetes_past_2_years`: Indicates if diabetes has been uncontrolled in the past 2 years (`"Yes"` or `"No"`).
+- `uncontrolled_diabetes_past_year`: Indicates if diabetes has been uncontrolled in the past year (`"Yes"` or `"No"`).
+- `changes_in_medications_past_year`: Indicates if there have been changes in diabetes medications in the past year (`"Yes"` or `"No"`).
+- `taking_3_or_more_medications`: Indicates if the prospect is taking three or more medications for diabetes (`"Yes"` or `"No"`).
+- `a1c_reading_less_than_8`: Indicates if the A1C reading is less than 8 (`"Yes"` or `"No"`).
+- `a1c_reading_between_8_8_6`: Indicates if the A1C reading is between 8 and 8.6 (`"Yes"` or `"No"`).
+- `a1c_reading_between_8_7_9_9`: Indicates if the A1C reading is between 8.7 and 9.9 (`"Yes"` or `"No"`).
+- `a1c_reading_between_10_11`: Indicates if the A1C reading is between 10 and 11 (`"Yes"` or `"No"`).
 
 #### Instructions
 
 The JSON element for the condition must be nested under `"health_conditions":{}`.
 
-#### Example Configurations
-
-1. **Diabetes**
+#### Example Configuration
 
 ```json
 {
-  // personal_info: Please populate with your own data
   "personal_info": {
     "coverage_amount": null,
     "premium_amount": "170",
@@ -42,7 +50,7 @@ The JSON element for the condition must be nested under `"health_conditions":{}`
         "day": "11",
         "year": "2023"
       },
-      "Date of diagnosis?": {
+      "Date of diagnosis": {
         "month": "Nov",
         "day": "12",
         "year": "2018"
@@ -63,65 +71,6 @@ The JSON element for the condition must be nested under `"health_conditions":{}`
     }
   },
   "drugs": {
-    // Please, consult the documentation of the drug/medication
-    "Valium": { ... }
-  }
-}
-```
-
-2. **Hypertension**
-
-```json
-{
-  "personal_info": { ... },
-  "health_conditions": {
-    "Hypertension": {
-      "Date of last treatment": {
-        "month": "Feb",
-        "day": "20",
-        "year": "2023"
-      },
-      "Date of diagnosis?": {
-        "month": "Jan",
-        "day": "15",
-        "year": "2015"
-      },
-      "controlled_with_medication": "Yes",
-      "taking_3_or_more_medications": "No",
-      "recent_blood_pressure_reading": "120/80"
-    }
-  },
-  "drugs": {
-    // Please, consult the documentation of the drug/medication
-    "Valium": { ... }
-  }
-}
-```
-
-3. **Asthma**
-
-```json
-{
-  "personal_info": { ... },
-  "health_conditions": {
-    "Asthma": {
-      "Date of last treatment": {
-        "month": "Apr",
-        "day": "10",
-        "year": "2024"
-      },
-      "Date of diagnosis?": {
-        "month": "Jun",
-        "day": "05",
-        "year": "2010"
-      },
-      "hospitalizations_past_year": "No",
-      "emergency_room_visits_past_year": "Yes",
-      "uses_inhaler": "Yes"
-    }
-  },
-  "drugs": {
-    // Please, consult the documentation of the drug/medication
     "Valium": { ... }
   }
 }
