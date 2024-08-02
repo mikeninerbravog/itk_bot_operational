@@ -1,3 +1,17 @@
+### Hepatitis A (Cured): Constructing JSON Elements for ITK Bot
+
+The JSON structure for Hepatitis A (Cured) includes the following fields:
+
+- `Date of last treatment`: The last date the condition was treated, broken down into `month`, `day`, and `year`.
+- `treatment_duration_six_months_or_more`: Indicates whether the treatment duration was six months or more (`"Yes"` or `"No"`).
+
+#### Instructions
+
+The JSON element for the condition must be nested under `"health_conditions":{}`.
+
+#### Example Configuration
+
+```json
 {
   // personal_info: Please populate with your own data
   "personal_info": {
@@ -32,3 +46,4 @@
     "Valium": { ... }
   }
 }
+```
