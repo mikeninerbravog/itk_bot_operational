@@ -1,5 +1,21 @@
-# itk_bot_operational
-ITK Bot "Mike": Operational
+# ITK Bot
+
+**Codiname: ITK Bot "Mike" v1"**
+**Version 1 (Jun 2024)**  
+**Developed by Mike Niner Bravog aka "Marcello Dev @ Upwork"**  
+**Client: Air.io**
+
+## Overview
+
+ITK Bot is a powerful tool designed to automate the process of filling out insurance quotation forms on insurancetoolkit.com, specifically within the "FEX" section. This bot aims to help insurance agents perform their jobs more efficiently by handling a high volume of quotes daily and responding to dynamic form questions.
+
+## Features
+
+- Automated Form Filling: The bot can log in and automatically fill out insurance quotation forms quickly and accurately.
+- High Volume Processing: Capable of handling 4,000-5,000 quotes per day without breaking.
+- Dynamic Question Handling: Smart enough to answer additional questions that appear based on the information entered.
+- Integration with Existing Systems: Designed to work seamlessly with current systems at insurancetoolkit.com.
+
 
 ### JSON Element Constructing
 
