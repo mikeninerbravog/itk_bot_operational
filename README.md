@@ -178,3 +178,35 @@ Including URL Endpoint and post-back instructions
 - [Metformin](https://github.com/mikeninerbravog/itk_bot_operational/blob/master/documentation/medications_schema/md/Metformin.md)
 - [Methadone](https://github.com/mikeninerbravog/itk_bot_operational/blob/master/documentation/medications_schema/md/Methadone.md)
 - [Metoprolol](https://github.com/mikeninerbravog/itk_bot_operational/blob/master/documentation/medications_schema/md/Metoprolol.md)
+
+# Problems Known
+
+1. **Insurance Toolkit Server Limitations**:
+   - The bot's processing speed is constrained by the response times and limitations of the Insurance Toolkit servers. Each quotation request takes an average of 20 to 30 seconds to process due to these limitations.
+
+2. **Single Connection Per IP**:
+   - The Insurance Toolkit server only permits one connection per IP address at a time. If more than one connection occurs simultaneously from the same IP, the host system terminates both the original and the additional connections. This limitation must be carefully managed to avoid disruptions.
+
+3. **Handling Pop-up Questions**:
+   - The bot needs to be capable of handling additional questions that may pop up during the form submission process. In some cases, unexpected questions or new fields may cause the bot to fail if not properly accounted for in the initial setup.
+
+4. **Postback URL Configuration**:
+   - The temporary postback URL provided is only for initial testing. The client must configure and provide their own postback URL for production use. This can lead to issues if not properly set up before the bot is deployed.
+
+5. **JSON Structure Changes**:
+   - Any changes in the required JSON structure or the addition of new health conditions and medications may necessitate updates to the bot's logic and configuration. Without these updates, the bot may not function correctly.
+
+6. **Health Conditions and Medications Schema**:
+   - Each health condition and medication requires a specific schema. Inconsistencies or errors in the schema provided can result in incorrect data submission or processing failures.
+
+7. **Data Accuracy and Completeness**:
+   - Ensuring the accuracy and completeness of the data provided in the JSON elements is crucial. Missing or incorrect data can lead to inaccurate quotations or failed submissions.
+
+8. **Server Connectivity Issues**:
+   - Any connectivity issues between the bot and the Insurance Toolkit servers can disrupt the quotation process, leading to delays or failed requests.
+
+9. **System Maintenance and Updates**:
+   - Regular maintenance and updates of both the bot system and the Insurance Toolkit platform are necessary to ensure continued compatibility and optimal performance. Neglecting these updates can lead to system failures or degraded performance.
+
+10. **Dependence on HTML and CSS Structure**:
+    - The bot system relies on the HTML and CSS structure of the Insurance Toolkit host. If any changes occur in these structures, such as during a UI update on the host, the system may break. In such cases, all references to XPATHs and CSS Selectors must be rewritten to restore functionality.
