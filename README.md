@@ -1,7 +1,9 @@
 # itk_bot_operational
 ITK Bot "Mike": Operational
 
-[### JSON Element Constructing](https://github.com/mikeninerbravog/itk_bot_operational/blob/master/documentation/ITK_Bot_release.md)
+### JSON Element Constructing
+
+- [General explanation about the JSON Element that trigger the ITK Bot](https://github.com/mikeninerbravog/itk_bot_operational/blob/master/documentation/ITK_Bot_release.md)
 
 
 ### Health Conditions JSON Schemas:
