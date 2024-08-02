@@ -15,8 +15,92 @@ To post the JSON element, use the following URL:
 The client (Air.io) must inform the postback URL. For this initial phase, a temporary URL to view the postback is:  
 [https://020524.bravog.com/itk_bot_postback.txt](https://020524.bravog.com/itk_bot_postback.txt)
 
+### Example JSON Element
 
-
+```json
+[
+  {
+    "personal_info": {
+      "coverage_amount": null,
+      "premium_amount": "170",
+      "coverage_type": "Level",
+      "sex": "Female",
+      "state": "California",
+      "month": "6",
+      "day": "15",
+      "year": "1980",
+      "feet": "5",
+      "inches": "6",
+      "pounds": "140",
+      "nicotine_use": "None",
+      "payment_type": "Credit Card",
+      "callSID": "CAabcdef123456abcdef1234567890abcd",
+      "phone": "(602) 123-4567"
+    },
+    "health_conditions": {
+      "Alcohol abuse": {
+        "Date of last treatment": {
+          "month": "Jun",
+          "day": "18",
+          "year": "2023"
+        },
+        "narcotics_abuse": "Yes"
+      },
+      "Diabetes": {
+        "Date of last treatment": {
+          "month": "Mar",
+          "day": "14",
+          "year": "2023"
+        },
+        "Date of diagnosis?": {
+          "month": "Nov",
+          "day": "22",
+          "year": "2019"
+        },
+        "insulin_use": "No",
+        "age_insulin_started": "14",
+        "daily_insulin_units": "25 units",
+        "uncontrolled_diabetes_past_10_years": "No",
+        "uncontrolled_diabetes_past_3_years": "No",
+        "uncontrolled_diabetes_past_2_years": "No",
+        "uncontrolled_diabetes_past_year": "Yes",
+        "changes_in_medications_past_year": "No",
+        "taking_3_or_more_medications": "Yes",
+        "a1c_reading_less_than_8": "Yes",
+        "a1c_reading_between_8_8_6": "No",
+        "a1c_reading_between_8_7_9_9": "No",
+        "a1c_reading_between_10_11": "No"
+      },
+      "Heart attack": {
+        "Date of occurrence": {
+          "month": "Aug",
+          "day": "5",
+          "year": "2022"
+        },
+        "multiple_heart_attacks": "Yes"
+      }
+    },
+    "drugs": {
+      "Plavix": {
+        "indication": "Atrial Fibrillation (AFIB)",
+        "last_use_date": {
+          "month": "May",
+          "day": "7",
+          "year": "2024"
+        },
+        "currently_taking_checkbox": "On",
+        "first_fill_date": {
+          "month": "Jul",
+          "day": "19",
+          "year": "2023"
+        },
+        "dosage_over_75mg": "Yes",
+        "episode_afib_last_12_months": "Yes"
+      }
+    }
+  }
+]
+```
 
 ## Overview
 
