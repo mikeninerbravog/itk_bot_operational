@@ -1,9 +1,9 @@
 # ITK Bot
 
--**Codename: ITK Bot Mike Beta 1**
--**Version 1 (Jun 2024)**
--**Developed by Mike Niner Bravog aka Marcello Dev @ Upwork**  
--**Client: Air.io**
+- **Codename: ITK Bot Mike Beta 1**
+- **Version 1 (Jun 2024)**
+- **Developed by Mike Niner Bravog aka Marcello Dev @ Upwork**  
+- **Client: Air.io**
 
 ## Overview
 
