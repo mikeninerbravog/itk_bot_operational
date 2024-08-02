@@ -14,7 +14,7 @@ To access the real-time log of the current session operation, visit:
 
 For viewing results, the temporary postback URL is:  
 [https://020524.bravog.com/itk_bot_postback.txt](https://020524.bravog.com/itk_bot_postback.txt)  
-**Note**: The client must provide their own postback URL.
+**Note**: The client must provide their postback URL.
 
 ## Resetting the Postback Log
 
@@ -260,9 +260,7 @@ To reset (empty) the postback log content, access or trigger:
       "callSID": "CAabcdef123456abcdef1234567890abcd",
       "phone": "(602) 123-4567"
     },
-    "health
-
-_conditions": {
+    "health_conditions": {
       "Kidney Dialysis": {
         "Date of last treatment": {
           "month": "Feb",
