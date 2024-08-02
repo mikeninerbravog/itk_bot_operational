@@ -1,6 +1,6 @@
 # ITK Bot
 
-**Codiname: ITK Bot "Mike" Beta Testing1"**
+**Codiname: ITK Bot "Mike" Beta Testing 1"**
 **Version 1 (Jun 2024)**  
 **Developed by Mike Niner Bravog aka "Marcello Dev @ Upwork"**  
 **Client: Air.io**
