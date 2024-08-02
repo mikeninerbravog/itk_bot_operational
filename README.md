@@ -12,10 +12,10 @@ ITK Bot is a powerful tool designed to automate the process of filling out insur
 ## Features
 
 - Automated Form Filling: The bot can log in and automatically fill out insurance quotation forms quickly and accurately.
-- High Volume Processing: Capable of handling 4,000-5,000 quotes per day without breaking.
-- Dynamic Question Handling: Smart enough to answer additional questions that appear based on the information entered.
+- High Volume Processing: Capable of handling hundreds of quotes per day without breaking.
+- High Speed: Each Final Expense Quote takes from 20 to 30 seconds on average to get done.
+- Dynamic Question Handling: Smart to answer additional questions that appear based on the information entered.
 - Integration with Existing Systems: Designed to work seamlessly with current systems at insurancetoolkit.com.
-
 
 ### JSON Element Constructing
 
