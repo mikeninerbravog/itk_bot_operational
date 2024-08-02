@@ -1,6 +1,9 @@
 # itk_bot_operational
 ITK Bot "Mike": Operational
 
+[### JSON Element Constructing](https://github.com/mikeninerbravog/itk_bot_operational/blob/master/documentation/ITK_Bot_release.md)
+
+
 ### Health Conditions JSON Schemas:
 
 - [AIDS HIV ARC](https://github.com/mikeninerbravog/itk_bot_operational/blob/master/documentation/health_schema/md/AIDS_HIV_ARC.md)
