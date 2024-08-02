@@ -1,7 +1,7 @@
 # itk_bot_operational
 ITK Bot "Mike": Operational
 
-Here are the Markdown links for the health conditions you listed:
+### Health Conditions JSON Schemas:
 
 - [AIDS HIV ARC](https://github.com/mikeninerbravog/itk_bot_operational/blob/master/documentation/health_schema/md/AIDS_HIV_ARC.md)
 - [Alcohol abuse](https://github.com/mikeninerbravog/itk_bot_operational/blob/master/documentation/health_schema/md/Alcohol_abuse.md)
@@ -34,7 +34,7 @@ Here are the Markdown links for the health conditions you listed:
 - [Schizophrenia](https://github.com/mikeninerbravog/itk_bot_operational/blob/master/documentation/health_schema/md/Schizophrenia.md)
 - [Stroke](https://github.com/mikeninerbravog/itk_bot_operational/blob/master/documentation/health_schema/md/Stroke.md)
 
-Here are the Markdown links for the medications you listed:
+### Medications JSON Schemas:
 
 - [Amlodipine](https://github.com/mikeninerbravog/itk_bot_operational/blob/master/documentation/medications_schema/md/Amlodipine.md)
 - [Aspirin](https://github.com/mikeninerbravog/itk_bot_operational/blob/master/documentation/medications_schema/md/Aspirin.md)
