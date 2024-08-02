@@ -1,6 +1,39 @@
 # itk_bot_operational
 ITK Bot "Mike": Operational
 
+Here are the Markdown links for the health conditions you listed:
+
+- [AIDS HIV ARC](https://github.com/mikeninerbravog/itk_bot_operational/blob/master/documentation/health_schema/md/AIDS_HIV_ARC.md)
+- [Alcohol abuse](https://github.com/mikeninerbravog/itk_bot_operational/blob/master/documentation/health_schema/md/Alcohol_abuse.md)
+- [Alzheimers Disease](https://github.com/mikeninerbravog/itk_bot_operational/blob/master/documentation/health_schema/md/Alzheimers_Disease.md)
+- [Amputations diabetes](https://github.com/mikeninerbravog/itk_bot_operational/blob/master/documentation/health_schema/md/Amputations_diabetes.md)
+- [Cancer](https://github.com/mikeninerbravog/itk_bot_operational/blob/master/documentation/health_schema/md/Cancer.md)
+- [COPD](https://github.com/mikeninerbravog/itk_bot_operational/blob/master/documentation/health_schema/md/COPD.md)
+- [COVID-19](https://github.com/mikeninerbravog/itk_bot_operational/blob/master/documentation/health_schema/md/COVID-19.md)
+- [Dementia](https://github.com/mikeninerbravog/itk_bot_operational/blob/master/documentation/health_schema/md/Dementia.md)
+- [Diabetes](https://github.com/mikeninerbravog/itk_bot_operational/blob/master/documentation/health_schema/md/Diabetes.md)
+- [Diabetic coma](https://github.com/mikeninerbravog/itk_bot_operational/blob/master/documentation/health_schema/md/Diabetic_coma.md)
+- [Diabetic neuropathy](https://github.com/mikeninerbravog/itk_bot_operational/blob/master/documentation/health_schema/md/Diabetic_neuropathy.md)
+- [Diabetic retinopathy](https://github.com/mikeninerbravog/itk_bot_operational/blob/master/documentation/health_schema/md/Diabetic_retinopathy.md)
+- [Heart Attack](https://github.com/mikeninerbravog/itk_bot_operational/blob/master/documentation/health_schema/md/Heart_Attack.md)
+- [Hepatitis A Chronic](https://github.com/mikeninerbravog/itk_bot_operational/blob/master/documentation/health_schema/md/Hepatitis_A_Chronic.md)
+- [Hepatitis A Cured](https://github.com/mikeninerbravog/itk_bot_operational/blob/master/documentation/health_schema/md/Hepatitis_A_Cured.md)
+- [Hepatitis B Chronic](https://github.com/mikeninerbravog/itk_bot_operational/blob/master/documentation/health_schema/md/Hepatitis_B_Chronic.md)
+- [Hepatitis B Cured](https://github.com/mikeninerbravog/itk_bot_operational/blob/master/documentation/health_schema/md/Hepatitis_B_Cured.md)
+- [Hepatitis C Chronic](https://github.com/mikeninerbravog/itk_bot_operational/blob/master/documentation/health_schema/md/Hepatitis_C_Chronic.md)
+- [Hepatitis C Cured](https://github.com/mikeninerbravog/itk_bot_operational/blob/master/documentation/health_schema/md/Hepatitis_C_Cured.md)
+- [High Blood Pressure](https://github.com/mikeninerbravog/itk_bot_operational/blob/master/documentation/health_schema/md/High_Blood_Pressure.md)
+- [High Cholesterol](https://github.com/mikeninerbravog/itk_bot_operational/blob/master/documentation/health_schema/md/High_Cholesterol.md)
+- [Kidney Dialysis](https://github.com/mikeninerbravog/itk_bot_operational/blob/master/documentation/health_schema/md/Kidney_Dialysis.md)
+- [Kidney Stones](https://github.com/mikeninerbravog/itk_bot_operational/blob/master/documentation/health_schema/md/Kidney_Stones.md)
+- [Memory Loss](https://github.com/mikeninerbravog/itk_bot_operational/blob/master/documentation/health_schema/md/Memory_Loss.md)
+- [Organ Transplant Completed](https://github.com/mikeninerbravog/itk_bot_operational/blob/master/documentation/health_schema/md/Organ_Transplant_Completed.md)
+- [Oxygen Continuous](https://github.com/mikeninerbravog/itk_bot_operational/blob/master/documentation/health_schema/md/Oxygen_Continuous.md)
+- [Oxygen Non Continuous](https://github.com/mikeninerbravog/itk_bot_operational/blob/master/documentation/health_schema/md/Oxygen_Non_Continuous.md)
+- [Past cancer](https://github.com/mikeninerbravog/itk_bot_operational/blob/master/documentation/health_schema/md/Past_cancer.md)
+- [Schizophrenia](https://github.com/mikeninerbravog/itk_bot_operational/blob/master/documentation/health_schema/md/Schizophrenia.md)
+- [Stroke](https://github.com/mikeninerbravog/itk_bot_operational/blob/master/documentation/health_schema/md/Stroke.md)
+
 Here are the Markdown links for the medications you listed:
 
 - [Amlodipine](https://github.com/mikeninerbravog/itk_bot_operational/blob/master/documentation/medications_schema/md/Amlodipine.md)
