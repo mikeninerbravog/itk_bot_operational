@@ -1,4 +1,4 @@
-# ITK Bot
+# ITK Bot - Documentation
 
 - **Codename: ITK Bot Mike Beta 1**
 - **Version 1 (Jun 2024)**
