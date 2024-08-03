@@ -40,7 +40,7 @@ The JSON element for the condition must be nested under `"health_conditions":{}`
     "phone": "(602) 123-4567"
   },
   "health_conditions": {
-    "Cancer": {
+&rarr;&rarr;    "Cancer": {
       "Indication": {
         "Blood or Bone Marrow": {
           "Date of last treatment": {
