@@ -321,9 +321,7 @@ The JSON element for the drug must be nested under `"drugs":{}`.
       "last_use_date": {
         "month": "Apr",
         "day": "11",
-        "
-
-year": "2024"
+        "year": "2024"
       },
       "currently_taking_checkbox": "On",
       "first_fill_date": {
