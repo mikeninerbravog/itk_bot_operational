@@ -1,4 +1,4 @@
-# ITK Bot - Documentation
+### ITK Bot - Documentation
 
 - **Codename: ITK Bot Mike Beta 1**
 - **Version 1 (Jun 2024)**
@@ -113,11 +113,11 @@ ITK Bot is a powerful tool designed to automate the process of filling out insur
 - **High Speed:** Each Final Expense Quote takes from 20 to 30 seconds on average to get done.
 - **Dynamic Question Handling:** Smart to answer additional questions that appear based on the information entered.
 - **Integration with Existing Systems:** Designed to work seamlessly with current systems at insurancetoolkit.com.
+- **Queue Processing:** The system supports the processing of multiple JSON elements posted continuously in the same session. The bot processes all items in the queue sequentially, in the order they are received. This feature ensures that the system can handle a high volume of requests efficiently and without interruption.
 
 ### Instructions of JSON Element Constructing
 Including URL Endpoint and post-back instructions
 - [General explanation about the JSON Element that trigger the ITK Bot](https://github.com/mikeninerbravog/itk_bot_operational/blob/master/documentation/ITK_Bot_release.md)
-
 
 ### Health Conditions JSON Schemas:
 
@@ -145,7 +145,9 @@ Including URL Endpoint and post-back instructions
 - [Kidney Dialysis](https://github.com/mikeninerbravog/itk_bot_operational/blob/master/documentation/health_schema/md/Kidney_Dialysis.md)
 - [Kidney Stones](https://github.com/mikeninerbravog/itk_bot_operational/blob/master/documentation/health_schema/md/Kidney_Stones.md)
 - [Memory Loss](https://github.com/mikeninerbravog/itk_bot_operational/blob/master/documentation/health_schema/md/Memory_Loss.md)
-- [Organ Transplant Completed](https://github.com/mikeninerbravog/itk_bot_operational/blob/master/documentation/health_schema/md/Organ_Transplant_Completed.md)
+- [Organ Transplant Completed](https://github.com/mikeninerbravog/itk_bot
+
+_operational/blob/master/documentation/health_schema/md/Organ_Transplant_Completed.md)
 - [Oxygen Continuous](https://github.com/mikeninerbravog/itk_bot_operational/blob/master/documentation/health_schema/md/Oxygen_Continuous.md)
 - [Oxygen Non Continuous](https://github.com/mikeninerbravog/itk_bot_operational/blob/master/documentation/health_schema/md/Oxygen_Non_Continuous.md)
 - [Past cancer](https://github.com/mikeninerbravog/itk_bot_operational/blob/master/documentation/health_schema/md/Past_cancer.md)
@@ -179,7 +181,7 @@ Including URL Endpoint and post-back instructions
 - [Methadone](https://github.com/mikeninerbravog/itk_bot_operational/blob/master/documentation/medications_schema/md/Methadone.md)
 - [Metoprolol](https://github.com/mikeninerbravog/itk_bot_operational/blob/master/documentation/medications_schema/md/Metoprolol.md)
 
-# Problems Known
+## General Notes
 
 This bot system was programmed to get the job done flawlessly, but as it depends on host resources and structure, some issues may occur. Despite thorough programming and testing, external factors such as server limitations, UI changes, and unexpected pop-up questions from the host can impact the bot's performance. Understanding these dependencies is crucial for maintaining and updating the system effectively.
 
@@ -216,4 +218,3 @@ This bot system was programmed to get the job done flawlessly, but as it depends
 11. **Headless Mode Operation**:
     - The bot must run in headless mode as the preferred option. Running in graphical mode demands more processing resources and is only recommended for maintenance, presentation, and development purposes. In live mode, headless operation is by far the best option for optimal performance and efficiency.
 
----
