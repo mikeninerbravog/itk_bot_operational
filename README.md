@@ -8,7 +8,7 @@
 ### Submission URL
 
 To post the JSON element, use the following URL:  
-[http://itkbot.bravog.com/upload-config](http://itkbot.bravog.com/upload-config)
+[https://itkbot.bravog.com/upload-config](https://itkbot.bravog.com/upload-config)
 
 ### Postback Information (temporary)
 
