@@ -145,9 +145,7 @@ Including URL Endpoint and post-back instructions
 - [Kidney Dialysis](https://github.com/mikeninerbravog/itk_bot_operational/blob/master/documentation/health_schema/md/Kidney_Dialysis.md)
 - [Kidney Stones](https://github.com/mikeninerbravog/itk_bot_operational/blob/master/documentation/health_schema/md/Kidney_Stones.md)
 - [Memory Loss](https://github.com/mikeninerbravog/itk_bot_operational/blob/master/documentation/health_schema/md/Memory_Loss.md)
-- [Organ Transplant Completed](https://github.com/mikeninerbravog/itk_bot
-
-_operational/blob/master/documentation/health_schema/md/Organ_Transplant_Completed.md)
+- [Organ Transplant Completed](https://github.com/mikeninerbravog/itk_bot_operational/blob/master/documentation/health_schema/md/Organ_Transplant_Completed.md)
 - [Oxygen Continuous](https://github.com/mikeninerbravog/itk_bot_operational/blob/master/documentation/health_schema/md/Oxygen_Continuous.md)
 - [Oxygen Non Continuous](https://github.com/mikeninerbravog/itk_bot_operational/blob/master/documentation/health_schema/md/Oxygen_Non_Continuous.md)
 - [Past cancer](https://github.com/mikeninerbravog/itk_bot_operational/blob/master/documentation/health_schema/md/Past_cancer.md)
