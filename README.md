@@ -12,7 +12,7 @@ To post the JSON element, use the following URL:
 
 ### Postback Information (temporary)
 
-The client (Air.io) must inform the postback URL. For this initial phase, a temporary URL to view the postback is:  
+The client (Air.ai) must inform the postback URL. For this initial phase, a temporary URL to view the postback is:  
 [https://020524.bravog.com/itk_bot_postback.txt](https://020524.bravog.com/itk_bot_postback.txt)
 
 ### Example JSON Element
