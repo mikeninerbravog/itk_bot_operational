@@ -165,7 +165,7 @@ The height and weight of the individual, represented by:
 
 #### Nicotine Use
 
-The nicotine use status of the individual, which can be one of the following:
+The nicotine use status of the individual, can be one of the following:
 
 - `"None"`
 - `"Cigarettes"`
@@ -175,7 +175,7 @@ The nicotine use status of the individual, which can be one of the following:
 
 #### Payment Type
 
-The preferred payment method, which can be one of the following:
+The preferred payment method, can be one of the following:
 
 - `"Bank Draft/EFT"`
 - `"Direct Express"`
@@ -215,7 +215,7 @@ To post the JSON element, use the following URL:
 
 ### Postback Information
 
-The client (Air.io) must inform the postback URL. For this initial phase, a temporary URL to view the postback is:  
+The client must inform the postback URL. For this initial phase, a temporary URL to view the postback is:  
 [https://020524.bravog.com/itk_bot_postback.txt](https://020524.bravog.com/itk_bot_postback.txt)
 
 ### Modular System
@@ -224,7 +224,7 @@ The bot system is modular and can be extended to handle additional health condit
 
 ### Performance Note
 
-Each quotation request takes an average of 20 to 30 seconds to be processed and posted back. The bot operates at a moderate speed due to limitations of the target host (insurancetoolkit.com). Some delays within this speed average are mandatory to keep the flows running flawlessly.
+Each quotation request takes an average of 20 to 30 seconds to be processed and posted back. The bot operates at a moderate speed due to the limitations of the target host (insurancetoolkit.com). Some delays within this speed average are mandatory to keep the flows running flawlessly.
 
 ### Examples to test the Bot's operation
 
