@@ -102,6 +102,7 @@ The client (Air.ai) must inform the postback URL. For this initial phase, a temp
 ```
 
 ## Overview
+**Update: You can test for free for 14 days. After that keep using it for a small monthly fee.**
 
 ITK Bot is a powerful tool designed to automate the process of filling out insurance quotation forms on insurancetoolkit.com, specifically within the "FEX" section. This bot aims to help insurance agents perform their jobs more efficiently by handling a high volume of quotes daily and responding to dynamic form questions.
 
