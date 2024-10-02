@@ -1,3 +1,8 @@
+### UPDATE INFO ON OCT 2 2024 => Project is in hibern mode.
+
+
+
+
 ### ITK Bot - Documentation
 
 - **Codename: ITK Bot Mike Beta 1**
